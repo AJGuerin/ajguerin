@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndrewGuerin
-- RGN RCN qualified, based in Dublin Ireland
+- RGN RCN qualified, based in Northern Ireland
 - 👀 I’m interested in IT application development and their utilisation in easing healthcare flow systems
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on educatcts
